@@ -1,0 +1,11 @@
+{
+    "firstName": "Alina",
+    "lastName": "Magistrova",
+    "age": 34,
+    "salary":
+    [
+        {"junior": 400,
+        "middle": 2000}
+    ]
+}
+
